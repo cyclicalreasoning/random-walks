@@ -2,3 +2,18 @@ baseURL: https://randomwalks.netlify.app/
 languageCode: en-us
 title: Random Walks
 theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: Random Walks
+    Content: Where one finds interesting jaunts in thinkspace.
+  ShowShareButtons: true
+  ShowReadingTIme: true
+  author: Yudhister Kumar
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Random Walks</title>
+    <link>https://randomwalks.netlify.app/</link>
+    <description>Recent content on Random Walks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Aug 2022 19:47:32 -0700</lastBuildDate><atom:link href="https://randomwalks.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://randomwalks.netlify.app/posts/hello-world/</link>
+      <pubDate>Tue, 30 Aug 2022 19:47:32 -0700</pubDate>
+      
+      <guid>https://randomwalks.netlify.app/posts/hello-world/</guid>
+      <description>&amp;ldquo;Hello World!&amp;rdquo; is overused.
+The first lesson in every introductory programming class revolves around printing this simple statement to the terminal.
+In Python:
+print(&amp;#34;Hello World!&amp;#34;) In Java:
+System.out.println(&amp;#34;Hello World!&amp;#34;); In C++:
+std::cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34;; In Haskell:
+main :: IO() main = putStrLn &amp;#34;Hello World!&amp;#34; This may be disquieting: that the entrypoint to a field once permeated with &amp;ldquo;hacker culture&amp;rdquo; and strong anti-institutionalist vibes has been standardized for the sake of tradition.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
