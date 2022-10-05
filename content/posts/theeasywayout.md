@@ -13,7 +13,7 @@ However, one must be wary of choosing pathways for the sake of the struggle, and
 
 It seems to be a common issue among agentic individuals that they find existing institutions don't offer them positive environments (in the best case) or actively counteract their interests (in a worse case). Inevitably, this results in a search for alternatives, whether this is dropping out of school, finding alternative employment, or otherwise sacrificing stability for "fulfillment." This is almost certainly not The Easy Way Out.
 
-In fact, most instutionalized progression tracks could be deemed The Easy Way Out, and if your modus operandi is having an impact (on anything) diminishing returns almost dictate that you adopt some sort of entreprenurial mindset to engage in creative destruction and blaze a new trail into the unknown. It's rational to escape the system!
+In fact, most instutionalized progression tracks could be deemed The Easy Way Out, and if your modus operandi is having an impact (on anything), diminishing returns almost dictate that you adopt some sort of entreprenurial mindset to engage in creative destruction and blaze a new trail into the unknown. It's rational to escape the system!
 
 This is (probably) valid if you're optimizing for a single outcome, but most people don't know with absolute certainty what they want out of life so they're likely optimizing for multiple different outcomes, some of which might counter each other. For instance, my desire for a social life makes high school a net positive, while for metrics which measure useful learning high school is atrocious.
 
