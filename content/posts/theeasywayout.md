@@ -1,7 +1,7 @@
 ---
 title: "The Easy Way Out"
 date: 2022-10-03T18:50:17-07:00
-draft: true
+draft: false
 ---
 >*"The easy way out is the coward's way out."*
 
